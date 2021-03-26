@@ -48,7 +48,8 @@
     <script src="js/Three3D.js"></script>
     <script src="js/background.js"></script>
     <script src="js/drawCanvas.js"></script>
-    
+    <!-- //////////////////main////////////////////-->
+    <script src="js/GlobeScene.js"></script>
     
 
 
@@ -57,16 +58,29 @@
     <script src="data/div/div.js"></script>
     <script src="data/dictionary.js"></script>
 
-    <!-- //////////////////main////////////////////-->
-    <script src="js/GlobeScene.js"></script>
     <script>
-
-        window.globalEP = new EventProxy();
-        window.controller = new Controller(0, start);
+        
         window.background = new Background($('#background'));
         window.slider = new Slider($('#add'), worldObj);
         window.text = new Text('#add');
 
+        var three = new Three.Init(webgl);
+        window.globeScenes = new GlobeScenes(worldArr, worldObj, 0);
+
+        function loop() {
+            three.loop();
+            globeScenes.loop();
+        }
+
+        loop();
+
+
+        function start() {
+            globeScenes.start();
+        }
+        window.controller = new Controller(0, start);
+
+        window.globalEP = new EventProxy();
         globalEP.on('globalEnd', function () {
             slider.hide();
             $('#add')
@@ -83,19 +97,9 @@
 
             }, 2500);
         });
-        var three = new Three.Init(webgl);
-        window.globeScenes = new GlobeScenes(worldArr, worldObj, 0);
 
-        loop();
 
-        function loop() {
-            three.loop();
-            globeScenes.loop();
-        }
 
-        function start() {
-            globeScenes.start();
-        }
 
 
     </script>

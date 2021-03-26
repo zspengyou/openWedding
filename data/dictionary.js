@@ -322,53 +322,53 @@ window.worldObj = {
         type: "image",
         url: "../data/3worldwishes/4Europe/1Rome|12|41/image/溦露鱼|罗马.jpg",
       },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/2Vatican|12|41/image/溦露鱼|梵蒂冈.JPG",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/4Europe/3Polland|19|52/image/三刀|波兰.png",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国| 襄爷.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟 .JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|襄爷.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/5Sweden|16|62/|瑞典斯德哥尔摩大学|节家龙.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/4Europe/6Spain|-4|39/image/严炎刘星|西班牙.jpg",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/4Europe/7France|2|49/image/ |巴黎.jpg",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/4Europe/7France|2|49/image/|巴黎.jpg",
-      },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/2Vatican|12|41/image/溦露鱼|梵蒂冈.JPG",
+      // },
+      // {
+      //   type: "image",
+      //   url: "../data/3worldwishes/4Europe/3Polland|19|52/image/三刀|波兰.png",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国| 襄爷.jpg",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟 .JPG",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟.JPG",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|襄爷.jpg",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/5Sweden|16|62/|瑞典斯德哥尔摩大学|节家龙.jpg",
+      // },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/4Europe/6Spain|-4|39/image/严炎刘星|西班牙.jpg",
+      // },
+      // {
+      //   type: "image",
+      //   url: "../data/3worldwishes/4Europe/7France|2|49/image/ |巴黎.jpg",
+      // },
+      // {
+      //   type: "image",
+      //   url: "../data/3worldwishes/4Europe/7France|2|49/image/|巴黎.jpg",
+      // },
     ],
     urlJson: "../data/3worldwishes/4Europe/info.json",
   },
@@ -389,11 +389,11 @@ window.worldObj = {
         url:
           "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营1|乐国斌.png",
       },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营|乐国斌.png",
-      },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营|乐国斌.png",
+      // },
       {
         type: "image",
         url:
@@ -404,10 +404,10 @@ window.worldObj = {
   },
 };
 window.worldArr = [
-  "0Asian",
-  "1NorthAmerica",
-  "2SouthAmerican",
-  "3Africa",
+  // "0Asian",
+  // "1NorthAmerica",
+  // "2SouthAmerican",
+  // "3Africa",
   "4Europe",
   "5Oceania",
   "6Asian",
