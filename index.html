@@ -8,6 +8,7 @@
         @import url("./css/main.css");
         @import url("./css/animation.css");
     </style>
+    <!-- <link rel="manifest" href="~/manifest.json"> -->
 </head>
 
 <body>
@@ -25,7 +26,7 @@
         <div id="article" class="article"></div>
         <div id="articleTitle" class="articleTitle"></div>
         <div id="start" class="start">开 始 ( s t a r t )</div>
-        <div id="push"><a href="http://www.52zhongtou.com/ProjectView/Detail/pid/560">贡献祝福</a></div>
+        <!-- <div id="push"><a href="http://www.52zhongtou.com/ProjectView/Detail/pid/560">贡献祝福</a></div> -->
         <div id="signature" class="signature">↑</div>
     </div>
 
@@ -83,27 +84,18 @@
         window.globalEP = new EventProxy();
         globalEP.on('globalEnd', function () {
             slider.hide();
+            text.text({ region: '感谢', area: '在我们的舞台上', name: '送出祝福的所有朋友' });
             $('#add')
-                .css('backgroundImage', "url('../data/3worldwishes/6Asian/2Hangzhou|120|30/image/老板马云|杭州阿里巴巴.JPG')")
-                .css('backgroundSize', '100% auto');
-
-
-            setTimeout(function () {
-                $('#add')
                     .css('backgroundImage', "url('../data/us/we.jpg')")
-                    .css('backgroundSize', '100% auto');
-
-                text.text({ region: '感谢', area: '站在我们的舞台上', name: '参与游戏的所有朋友' })
-
-            }, 2500);
+                    .css('backgroundSize', 'auto')
+                    .css('background-repeat', 'no-repeat')
+                    .css('background-position', 'center');
         });
 
-
-
-
-
     </script>
-    <audio src="./data/3worldwishes/BreathAndLife.mp3" autoPlay="autoPlay" loop="loop"> </audio>>
+    
+    <audio src="./data/3worldwishes/MarryMe.mp3" autoPlay="autoPlay" loop="loop" preload="auto"> </audio>
+    <!-- <audio src="./data/3worldwishes/MarryMe.mp3" autoPlay="autoPlay" loop="loop"> </audio> -->
 </body>
 
 </html>

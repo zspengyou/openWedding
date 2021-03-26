@@ -384,11 +384,11 @@ window.worldObj = {
   },
   "6Asian": {
     urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营1|乐国斌.png",
-      },
+      // {
+      //   type: "image",
+      //   url:
+      //     "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营1|乐国斌.png",
+      // },
       // {
       //   type: "image",
       //   url:
@@ -408,7 +408,7 @@ window.worldArr = [
   // "1NorthAmerica",
   // "2SouthAmerican",
   // "3Africa",
-  "4Europe",
-  "5Oceania",
+  // "4Europe",
+  // "5Oceania",
   "6Asian",
 ];

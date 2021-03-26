@@ -134,28 +134,29 @@
 
     .article{
       position: absolute;
-      letter-spacing:2px;
-      line-height:19px;
-      font-size: 15px;
+      letter-spacing:5px;
+      line-height:40px;
+      font-size: 25px;
       font-weight: normal;
-      color:rgba(0, 80, 80, 1);
+      color:rgb(14, 15, 15);
       left: 20%;
       width: 60%;
       top:30%;
-      text-shadow: rgb(255, 255, 255) 1px 1px 2px;
+      text-shadow: rgb(255, 255, 255) 1px 1px 2px;      
       /*-webkit-filter: drop-shadow(0px 0px 8px rgba(250, 255, 255, 0.65));*/
       /*-webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.51);*/
     }
-    .articleTitle{
+    .articleTitle{      
       letter-spacing:10px;
       position: absolute;
       font-weight: bold;
-      font-size: 55px;
+      font-size: 55px;      
       color:rgba(0, 155, 155, 1);
       left: 20%;
       width: 60%;
       top:20%;
       text-shadow: rgba(255, 255, 255, 1) 1px 1px 1px;
+      
       /*-webkit-filter: drop-shadow(0px 0px 8px rgba(250, 255, 255, 0.65));*/
       /*-webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.51);*/
     }
@@ -177,7 +178,7 @@
       background: rgba(0,240,240,1);
     }
 
-    #push{
+    /* #push{// 贡献祝福， 已经删除
       -webkit-transition: all 0.2s ease-in-out;
       position: absolute;
       border-radius: 2px;
@@ -192,7 +193,7 @@
 
     #push:hover{
       background: rgba(130,210,0,1);
-    }
+    } */
 
    #bg{
       background-image: url(../data/bg.png);
