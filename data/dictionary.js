@@ -2,7 +2,7 @@ window.worldObj = {
   "0Asia": {
     urls: [
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Aaron|莱阳.jpg"},
-      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Anna|宁波s.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Anna|宁波.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ann|烟台.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Brother Cheng|北京.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Bruce|福建省世茂海上丝绸之路博物馆.jpg"},
@@ -185,7 +185,7 @@ window.worldObj = {
 };
 window.worldArr = [
   "0Asia",
-  // "1NorthAmerica",
-  // "4Europe",
+  "1NorthAmerica",
+  "4Europe",
   // "6Asia"
 ];
