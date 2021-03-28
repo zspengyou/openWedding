@@ -1,414 +1,191 @@
 window.worldObj = {
-  "0Asian": {
+  "0Asia": {
     urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Crystal|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Deidra|Toronto.jpeg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Irene|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Joseph|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Mann|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url: 
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Sharda|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Vanessa|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Vanita|Toronto.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/03HK|114|22/image/bala|香港中银|飞鸟.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/05QingHai|100|37/image/浩哥|青海湟源 .JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/ 朱一多学长|北京景山.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/乐国斌|北京高尔夫球场.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/易景平|北京 soho.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/易景平|北京soho.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/朱一多学长女儿|北京 .jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/朱一多学长女儿|北京.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/李大卫|北京.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/06BeiJin|116|40/image/驴小宝|北京天安门.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/   |七星潭|张璐.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/  |七星潭|张璐.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/foxfoxfox|台湾东海岸.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/foxfoxfox|台湾东海岸2.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/|七星潭|张璐.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/行竹的朋友|台中.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/07TaiWan|121|26/image/高岸媚|台湾阿里山|驴小宝.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/08Malasyia|100|6/image/彭心怡|马来西亚.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/09Sichuan|102|32/image/李阳|四川某冰川.jpg",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/0Asian/10Iran|53|32/image/欧尚钧|伊朗.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/11guangxi|108|24/image/野猴不死|广西.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/12Xizang|90|32/image/陈守华的学生|日喀则.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/13Armenia|44|40/image/emily |亚美尼亚|飞鸟.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/14Shanghai|121|31/image/Charles|上海.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/14Shanghai|121|31/image/山乐&米线|上海莘庄|.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/14Shanghai|121|31/image/张奕扬|上海.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/14Shanghai|121|31/image/梁琪惟|上海外滩.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/14Shanghai|121|31/image/邵琦|上海华东政法大学.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/15Guizhou|106|26/image/？|高潮小学|驴笑笑.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/16Xinjiang|80|41/image/？|乌鲁木齐|黄燕燕.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/17Yunnan|102|24/image/彭云游子|丽江|黄燕燕.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/18Qingdao|120|37/image/阿蒙|青岛中石化.JPG",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/0Asian/19Aomen|116|23/image/任娇|澳门.jpg",
-      },
-      {
-        type: "image",
-        url: "../data/3worldwishes/0Asian/19Aomen|116|23/image/梁天|澳门.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/20Tianjin|117|39/image/宋梦想&安尘|天津孙燕姿演唱会.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/21Jiangsu|119|35/image/彭家驹|徐州.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/22Korea|126|37/image/行竹的朋友|韩国首尔地铁站.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/23Fujian|120|25/image/陈路路|霞浦海滩.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/23Gansu|103|35/image/刘欢欢|扎尕那.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/23Gansu|103|35/image/驴小宝-张泽浩|兰州马拉松.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/0Asian/24Arab Emirates|24|56/image/阿文|阿联酋|黄燕燕.jpg",
-      },
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Aaron|莱阳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Anna|宁波.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ann|烟台.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Brother Cheng|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Bruce|福建省世茂海上丝绸之路博物馆.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ezreal|南京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/FS|香港.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/HXC|天安门.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Iceman|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Johnny|苏州园林.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/John|深圳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Julie|国泰影院拍.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/KIM_FLY|苏州东方之门.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/LC|上海交大.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Nevermore21|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ora|烟台.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Roger cong|桂林.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Sam__Lee|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Sophia|杭州.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/W|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/YujiaoX|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/csy|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/handsome Jane|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/yeah|长沙.jpeg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/zac|国家大剧院.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/君君Lee|莱阳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/柏川|.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/之间|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/吴导|南京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/团长|南京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/大象|宁波.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/奶奶|家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/小才|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/小羊|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/恬恬|福建.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/文总|深圳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/晶晶|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/李飞|莱阳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/野原|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/顾兄|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/晓波|湖南长沙 橘子洲头.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/姜兄|江苏无锡.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/螃蟹|沈阳建筑大学.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/小冲|烟台东海月亮老人.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/周大福&天山雪莲&afterwards|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/乔公子|济南.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/信天游|烟台.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/小北姐|上海.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/张教授|澳门.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/杨教授|西安.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/林藤树|济南.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/靖哥哥|成都.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/黄师兄|长城.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/房先生|蜡像馆.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/粘三胖|西二旗.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/刘光洙|泉城广场.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/李老板|杭州网易.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/大波哥|上海爱琴海购物公园 .jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/开飞机的dobe舒克|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/天山雪莲|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/憨憨小吴|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/真情难觅|西安.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/老爸老妈|家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/舅舅一家|东营.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/赵家小姐|南京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/香樟大树|浙江大学.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/沉着冷静|苏州观前街.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/戴家小公主|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/玉砌似画染|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/科技园陈发福|深圳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/让老婆出镜的孔兄|济南.jpg"},
     ],
     urlJson: "../data/3worldwishes/0Asian/info.json",
   },
   "1NorthAmerica": {
     urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/？|美国印第安纳大学|驴小宝.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/1NorthAmerica/1USA|-89|39/image/牙刷|卡内基梅隆大学|.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/1NorthAmerica/1USA|-92|31/image/麻雀|洛杉矶ChinaTown.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/1NorthAmerica/1USA|-92|32/image/刘博|美国.JPG",
-      },
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Aaron_Ke|美加边境.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Binbin|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Briano&Benson|Distillery Historic District.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Cannie|Banff.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Chloe|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Chris|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Cong&Yan|西雅图.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Crystal|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Deidra|Toronto.jpeg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Derry|national art gallery.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Fudong|埃德蒙顿.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Ike|USA.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Irene|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/JZ|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/JackHu|埃德蒙顿.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Jake|AmazonOffice.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Jesse|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Joseph|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/July|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Kevin|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Lulu&Yan&Briano|Distillery Historic District.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Mann|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/MrCold|Burlington.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/NR|渥太华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Prof_Ji&静姐|Virginia.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Qina|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Roy|Markham.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Sharda|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Terry|卡尔家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Tim|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Tommy|Hamilton.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Vanessa|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Vanita|Toronto.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Z&Nikki|Sun Peaks.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/boyuan|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/cshshshzx|西雅图.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/neptune&Jessica|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/xiaohui姐|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/灰灰&思思|埃德蒙顿.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/虎哥|mount temple .jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/凯哥|西雅图.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/家伟|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/查理|梦露楼.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/邦帝|蒙特利尔.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/龟龟|安大略湖.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/朱哥哥|蒙特利尔.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/郜师兄|Milwaukee.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/信号弹|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/鄧元龍|密西沙加.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/米奧小姐(Joy)|卡尔家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/白发渔樵|Vancouver.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/周博一家|usa.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/大顺夫妇|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/武华夫妇|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/盛哥夫妇|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/钱家少爷|世嘉堡.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/姜家少爷|加利福尼亚.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/子安在這裡|sugerBeach.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/刘家小公主|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/悍将学单板|多伦多.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/江户川柯南|卡尔家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/一颗思想的芦苇|温哥华.jpg"},
+      {type:"image",url:"../data/3worldwishes/1NorthAmerica/1USA|-72|42/image/烫烫烫锟斤拷屯屯屯|温哥华.jpg"},
     ],
     urlJson: "../data/3worldwishes/1NorthAmerica/info.json",
   },
-  "2SouthAmerican": {
-    urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/2SouthAmerican/1VeRayNeira|-62|-2/image/Katrin'friend|委瑞内拉.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/2SouthAmerican/1VeRayNeira|-62|-2/image/Katrin|委瑞内拉1.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/2SouthAmerican/1VeRayNeira|-62|-2/image/Katrin|委瑞内拉2.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/2SouthAmerican/1VeRayNeira|-62|-2/image/Katrin|委瑞内拉3.JPG",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/2SouthAmerican/2Bahama|-77|24/image/|巴哈马群岛蓝洞|王越.JPG",
-      },
-    ],
-    urlJson: "../data/3worldwishes/2SouthAmerican/info.json",
-  },
-  "3Africa": {
-    urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/3Africa/1GoodHope|18|-34/image/小萌|好望角|飞鸟.jpg",
-      },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/3Africa/2 Congo|23|0/image/刘爽&猎人农夫|刚果.jpg",
-      },
-    ],
-    urlJson: "../data/3worldwishes/3Africa/info.json",
-  },
+
   "4Europe": {
     urls: [
-      {
-        type: "image",
-        url: "../data/3worldwishes/4Europe/1Rome|12|41/image/溦露鱼|罗马.jpg",
-      },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/2Vatican|12|41/image/溦露鱼|梵蒂冈.JPG",
-      // },
-      // {
-      //   type: "image",
-      //   url: "../data/3worldwishes/4Europe/3Polland|19|52/image/三刀|波兰.png",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国| 襄爷.jpg",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟 .JPG",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|刘晓伟.JPG",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/4England|-2|52/image/？|英国|襄爷.jpg",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/5Sweden|16|62/|瑞典斯德哥尔摩大学|节家龙.jpg",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/4Europe/6Spain|-4|39/image/严炎刘星|西班牙.jpg",
-      // },
-      // {
-      //   type: "image",
-      //   url: "../data/3worldwishes/4Europe/7France|2|49/image/ |巴黎.jpg",
-      // },
-      // {
-      //   type: "image",
-      //   url: "../data/3worldwishes/4Europe/7France|2|49/image/|巴黎.jpg",
-      // },
+      {type: "image",url: "../data/3worldwishes/4Europe/1Rome|12|41/image/林海雪原|瑞士.jpg"},
+      {type: "image",url: "../data/3worldwishes/4Europe/1Rome|12|41/image/闯爷|慕尼黑.jpg"},
     ],
     urlJson: "../data/3worldwishes/4Europe/info.json",
   },
-  "5Oceania": {
+  "6Asia": {
     urls: [
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/5Oceania/1Australia|151|31/image/？|澳大利亚perth.jpg",
-      },
-    ],
-    urlJson: "../data/3worldwishes/5Oceania/info.json",
-  },
-  "6Asian": {
-    urls: [
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营1|乐国斌.png",
-      // },
-      // {
-      //   type: "image",
-      //   url:
-      //     "../data/3worldwishes/6Asian/1Nepal|90|27/image/罗静|珠峰南坡abc营|乐国斌.png",
-      // },
-      {
-        type: "image",
-        url:
-          "../data/3worldwishes/6Asian/2Hangzhou|120|30/image/老板马云|杭州阿里巴巴.JPG",
-      },
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Anna|宁波.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Chloe|多伦多.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/J.Z|多伦多.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/JackHu|埃德蒙顿.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Jesse|温哥华.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/John|深圳.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Kevin|多伦多.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Roy|Markham.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Sophia|杭州.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/Tommy|Hamilton.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/YujiaoX|北京.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/yeah|长沙.jpeg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/柏川|.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/虎哥|mount temple .jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/大象|宁波.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/小才|上海.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/凯哥|西雅图.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/家伟|多伦多.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/姜兄|江苏无锡.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/乔公子|济南.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/刘光洙|泉城广场.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/米奧小姐(Joy)|卡尔家里.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/周博一家|usa.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/武华夫妇|温哥华.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/悍将学单板|多伦多.jpg"},
+      // {type:"image",url:"../data/3worldwishes/6Asian/1Nepal|90|27/image/烫烫烫锟斤拷屯屯屯|温哥华.jpg"},
     ],
     urlJson: "../data/3worldwishes/6Asian/info.json",
   },
 };
 window.worldArr = [
-  // "0Asian",
-  // "1NorthAmerica",
-  // "2SouthAmerican",
-  // "3Africa",
-  // "4Europe",
-  // "5Oceania",
-  "6Asian",
+  "0Asia",
+  "1NorthAmerica",
+  "4Europe",
+  "6Asia"
 ];
