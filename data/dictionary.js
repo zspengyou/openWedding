@@ -2,7 +2,7 @@ window.worldObj = {
   "0Asia": {
     urls: [
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Aaron|莱阳.jpg"},
-      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Anna|宁波.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Anna|宁波s.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ann|烟台.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Brother Cheng|北京.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Bruce|福建省世茂海上丝绸之路博物馆.jpg"},
@@ -12,7 +12,7 @@ window.worldObj = {
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Iceman|北京.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Johnny|苏州园林.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/John|深圳.jpg"},
-      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Julie|国泰影院拍.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Julie|国泰影院.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/KIM_FLY|苏州东方之门.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/LC|上海交大.jpg"},
       {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Nevermore21|上海.jpg"},
@@ -185,7 +185,7 @@ window.worldObj = {
 };
 window.worldArr = [
   "0Asia",
-  "1NorthAmerica",
-  "4Europe",
-  "6Asia"
+  // "1NorthAmerica",
+  // "4Europe",
+  // "6Asia"
 ];

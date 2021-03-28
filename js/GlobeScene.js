@@ -9,15 +9,7 @@
     
     this.ep = new EventProxy();
     this.index = 0;
-    
-    var numberOfContinent = 0;
-    for (var name in nameObj) {
-        numberOfContinent++;
-        console.log("continent name: ${name}"+ name);
-    }
 
-    console.log("numberOfContinent: "+ numberOfContinent);
-    // this.N = numberOfContinent;
     this.N = nameArr.length;
 
     this.init();
@@ -172,7 +164,7 @@
     }
   };
 
-  GlobeScene.prototype.loadBroadCast = function () {
+  GlobeScene.prototype.loadBroadCast = function () {//jay loads photo one by one
     var delay = this.BroadCastDelay;//5400
     var self = this;
 
@@ -191,36 +183,45 @@
       var img = new Image();
       img.src = url;
       img.onload = function () {
-        var lnglat = (self.lnglat = getLnglat(url));
-        self.globe.viewAt({
-          lat: lnglat.lat,
-          lng: lnglat.lng - this.index * 720,
-        });
-        self.globe.addCenter(lnglat, this.h); //增加地理上的mark
+        try{
+            var lnglat = (self.lnglat = getLnglat(url));
+            self.globe.viewAt({
+              lat: lnglat.lat,
+              lng: lnglat.lng - this.index * 720,
+            });
+            self.globe.addCenter(lnglat, this.h); //增加地理上的mark
+    
+            setTimeout(function () {
+              self.globe.zoomIn();
+            }, 1300);
+            setTimeout(function () {
+              $("#add").css("background", "rgba(250,250,250,0.95)");
+              self.globe.zoomIn();
+            }, 1600);
+    
+            setTimeout(function () {
+              self.globe.zoomOut();
+              $("#add").css("background", "rgba(255,255,255,0.0)");
+              var lat = -self.lnglat.lat;
+              var lng = self.lnglat.lng - 180 - self.index * 720;
+              self.globe.viewAt({ lng: lng, lat: lat });
+            }, delay - 1200);
+    
+            floatTag.broadCastImg(img, delay, info);
+            setTimeout(
+              function () {
+                this.ep.emit("next");
+              }.bind(this),
+              delay
+            );
+        }catch(e){
+            console.log(e);
+        }
 
-        setTimeout(function () {
-          self.globe.zoomIn();
-        }, 1300);
-        setTimeout(function () {
-          $("#add").css("background", "rgba(250,250,250,0.95)");
-          self.globe.zoomIn();
-        }, 1600);
-
-        setTimeout(function () {
-          self.globe.zoomOut();
-          $("#add").css("background", "rgba(255,255,255,0.0)");
-          var lat = -self.lnglat.lat;
-          var lng = self.lnglat.lng - 180 - self.index * 720;
-          self.globe.viewAt({ lng: lng, lat: lat });
-        }, delay - 1200);
-
-        floatTag.broadCastImg(img, delay, info);
-        setTimeout(
-          function () {
-            this.ep.emit("next");
-          }.bind(this),
-          delay
-        );
+      }.bind(this);
+      img.onerror = function () {
+          console.log("error loading"+img.src);
+          this.ep.emit("next");
       }.bind(this);
     } else if (type === "video") {
     } else {
