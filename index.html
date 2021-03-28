@@ -8,7 +8,15 @@
         @import url("./css/main.css");
         @import url("./css/animation.css");
     </style>
-    <!-- <link rel="manifest" href="~/manifest.json"> -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EDGNJTWQVM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EDGNJTWQVM');
+    </script>
 </head>
 
 <body>
@@ -30,8 +38,8 @@
         <div id="signature" class="signature">↑</div>
     </div>
 
-    
-    
+
+
     <script src="lib/color.js"></script>
     <script src="lib/eventproxy.js"></script>
     <script src="lib/jquery-1.11.0.js"></script>
@@ -51,7 +59,7 @@
     <script src="js/drawCanvas.js"></script>
     <!-- //////////////////main////////////////////-->
     <script src="js/GlobeScene.js"></script>
-    
+
 
 
 
@@ -60,7 +68,7 @@
     <script src="data/dictionary.js"></script>
 
     <script>
-        
+
         window.background = new Background($('#background'));
         window.slider = new Slider($('#add'), worldObj);
         window.text = new Text('#add');
@@ -86,14 +94,14 @@
             slider.hide();
             text.text({ region: '感谢', area: '在我们的舞台上', name: '送出祝福的所有朋友' });
             $('#add')
-                    .css('backgroundImage', "url('../data/us/we.jpg')")
-                    .css('backgroundSize', 'auto')
-                    .css('background-repeat', 'no-repeat')
-                    .css('background-position', 'center');
+                .css('backgroundImage', "url('../data/us/we.jpg')")
+                .css('backgroundSize', 'auto')
+                .css('background-repeat', 'no-repeat')
+                .css('background-position', 'center');
         });
 
     </script>
-    
+
     <audio src="./data/3worldwishes/MarryMe.mp3" autoPlay="autoPlay" loop="loop" preload="auto"> </audio>
     <!-- <audio src="./data/3worldwishes/MarryMe.mp3" autoPlay="autoPlay" loop="loop"> </audio> -->
 </body>
