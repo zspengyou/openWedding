@@ -26,3 +26,40 @@
 ##### 各种兄弟姐妹基友网友狐朋狗友在天涯海角世界各地拍摄的牛逼哄哄的照片！
 ##### 照片拍摄者:飞鸟、杨思、登山家罗静、june、格布、三刀、襄爷、鱼姐、刘博等
 ##### and 父母 老婆作为压轴！！
+
+
+special from family:
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/老爸老妈|家里.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/真情难觅|西安.jpg"},      
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/奶奶|家里.jpg"},     
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/周大福&天山雪莲&afterwards|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/君君Lee|莱阳.jpg"},    
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Aaron|莱阳.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ora|烟台.jpg"},  
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/天山雪莲|北京.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/信天游|烟台.jpg"},          
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/pluto|东营.jpg"},
+      {type:"image",url:"../data/3worldwishes/0Asian/00Tailand|100|13.5/image/憨憨小吴|北京.jpg"},   
+
+      ===
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   README.md
+	deleted:    "data/3worldwishes/0Asian/00Tailand|100|13.5/image/\350\210\205\350\210\205\344\270\200\345\256\266|\344\270\234\350\220\245.jpg"
+	deleted:    "data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Fudong|\345\237\203\345\276\267\350\222\231\351\241\277.jpg"
+	modified:   data/dictionary.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	"data/3worldwishes/0Asian/00Tailand|100|13.5/image/Ginny|\345\220\214\346\265\216\345\244\247\345\255\246.jpg"
+	"data/3worldwishes/0Asian/00Tailand|100|13.5/image/pluto|\344\270\234\350\220\245.jpg"
+	data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Caitlin|Toronto.jpg
+	data/3worldwishes/1NorthAmerica/1USA|-72|42/image/HYY|Toronto.jpg
+	"data/3worldwishes/1NorthAmerica/1USA|-72|42/image/LFD|\345\237\203\345\276\267\350\222\231\351\241\277.jpg"
+	data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Lensa|Toronto.png
+	data/3worldwishes/1NorthAmerica/1USA|-72|42/image/Marine|Toronto.jpg
+	data/3worldwishes/1NorthAmerica/1USA|-72|42/image/WarSword|Niagra.jpg
+	"data/3worldwishes/1NorthAmerica/1USA|-72|42/image/dedederek|\346\270\251\345\223\245\345\215\216.jpg"      
